@@ -1,6 +1,6 @@
 'use strict';
 
-console.log('TASK - 03');
+console.warn('TASK - 03');
 
 // Напиши фукцнию findLongestWord(string), которая принимает параметром
 // произвольную строку (в строке будут только слова и пробелы)

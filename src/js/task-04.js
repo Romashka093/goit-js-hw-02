@@ -1,6 +1,6 @@
 'use strict';
 
-console.log('TASK - 04');
+console.warn('TASK - 04');
 
 // Напиши функцию formatString(string) которая принимает строку и форматирует
 // ее если необходимо.

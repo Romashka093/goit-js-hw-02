@@ -1,6 +1,6 @@
 'use strict';
 
-console.log('TASK - 06');
+console.warn('TASK - 06');
 
 // Напиши скрипт со следующим функционалом:
 

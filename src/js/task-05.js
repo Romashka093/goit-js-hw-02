@@ -1,6 +1,6 @@
 'use strict';
 
-console.log('TASK - 05');
+console.warn('TASK - 05');
 
 // Напиши функцию checkForSpam(message), принимающую 1 параметр message - строку.
 // Функция проверяет ее на содержание слов spam и sale. Если нашли запрещенное слово

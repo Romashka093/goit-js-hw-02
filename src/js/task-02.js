@@ -1,6 +1,6 @@
 'use strict';
 
-console.log('TASK - 02');
+console.warn('TASK - 02');
 
 // Напиши скрипт подсчета стоимости гравировки украшений.
 // Для этого создай функцию calculateEngravingPrice(message, pricePerWord)
