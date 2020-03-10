@@ -74,7 +74,7 @@ const addLogin = (allLogins, login) => {
     console.log('Логин успешно добавлен!');
   }
 };
-// addLogin(logins, login);
+
 //  Вызовы функции для проверки работоспособности реализации.
 
 addLogin(logins, 'Ajax'); // 'Логин успешно добавлен!'
